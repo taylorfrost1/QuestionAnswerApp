@@ -15,6 +15,6 @@ struct Question {
     
     init(questionString:String, answerString:String){
         self.questionString = questionString
-        self .answerString = answerString
+        self.answerString = answerString
     }
 }
